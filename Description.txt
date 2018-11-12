@@ -1,0 +1,4 @@
+welcome to MVC_Imdb!
+
+IMDB Site with ASP.NET MVC
+
