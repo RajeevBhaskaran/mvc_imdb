@@ -2,6 +2,8 @@ welcome to MVC_Imdb!
 
 IMDB Site with ASP.NET MVC
 
-Moive Review
+
+Moive Review and Ratings
+
 
 Thanks,
